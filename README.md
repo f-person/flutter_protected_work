@@ -1,6 +1,6 @@
 # Protected Work
 
-A Flutter package that helps you to protect your work against greedy employers
+A Flutter package that helps you to protect your work against greedy clients
 not willing to pay by letting you to remotely control the app's usability.
 
 ## Using

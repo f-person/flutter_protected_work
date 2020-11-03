@@ -1,6 +1,6 @@
 name: flutter_protected_work
 description: Protect your work against greedy clients.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/f-person/flutter_protected_work
 
 environment:
