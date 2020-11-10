@@ -1,7 +1,6 @@
 # Protected Work
 
-A Flutter package that helps you to protect your work against greedy clients
-not willing to pay by letting you to remotely control the app's usability.
+A Flutter package that helps you to remotely control the usability of your app.
 
 ## Using
 
@@ -38,6 +37,3 @@ class MyApp extends StatelessWidget {
 }
 ```
 
-## Notes
-
-Please remove the package from your app after getting payed :)

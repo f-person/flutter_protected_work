@@ -1,6 +1,6 @@
 name: flutter_protected_work
-description: Protect your work against greedy clients.
-version: 1.0.1
+description: A Flutter package that helps you to remotely control the usability of your app.
+version: 1.0.2
 homepage: https://github.com/f-person/flutter_protected_work
 
 environment:
